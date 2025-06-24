@@ -28,6 +28,11 @@ else:
     sys.exit("Opção inválida")
 ##########################################
 #Tambem podemos ter if dentro de if
+conta_normal = True
+conta_universitaria = False
+cheque_especial = 1000
+
+
 if conta_normal: #Exemplo sistema de banco
     if saldo >= saque:
         print("Saque realizado com sucesso!")
