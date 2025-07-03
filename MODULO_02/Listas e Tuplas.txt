@@ -1,0 +1,9 @@
+Em resumo, listas são mutáveis, o que significa que podem ser alteradas após sua criação, enquanto tuplas são imutáveis, ou seja, uma vez criadas, não podem ser modificadas.
+
+Listas = Mutáveis (podem ser alteradas)      | Sintaxe = Colchetes [ ]
+
+Tuplas = Imutáveis (não podem ser alteradas) | Sintaxe = Parênteses ( )
+
+
+
+
